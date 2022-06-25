@@ -1,0 +1,11 @@
+{
+	"name": "com.tazman-audio.fabric2.0.loudnessmeter",
+	"version": "1.0.0",
+	"displayName": "Fabric Loudness Meter",
+	"description": "Fabric Loudness Meter",
+	"unity": "2019.4",
+	"hideInEditor": "false",
+	"changelogUrl": "https://fabric-manual.com/m/Fabric/c/102299",
+	"documentationUrl": "https://fabric-manual.com/m/Fabric",
+	"licensesUrl": "https://www.tazman-audio.co.uk/licensing"
+}
